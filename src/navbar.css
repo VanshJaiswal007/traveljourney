@@ -1,0 +1,17 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+}
+.Nav--container{
+    display:flex;
+    background-color:#F55A5A;
+    height:10vh;
+    justify-content:center;
+    align-items:center;
+    width:100vw;
+}
+.navbar--title{
+    padding:1vh;
+    color: white;
+}

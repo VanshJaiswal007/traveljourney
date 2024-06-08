@@ -1,0 +1,38 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+}
+body{
+    background-color: #FFFFFF;
+}
+.card--container{
+    display:flex;
+    margin-top:8vh;
+}
+.card--image{
+    height:25vh;
+    margin-left:10vw;
+    width:20vw;
+    margin-right:3vw;
+}
+.card--details{
+    height:30vh;
+    width:55vw;
+    margin-top:2vh;
+}
+.card--details--sub{
+    display:flex;
+}
+.locater--image{
+    height:1.5vh;
+    width:1.5vw;
+}
+.locater{
+    color:#918E9B;
+    margin-left:2vw;
+}
+.card--date{
+    margin-top:2.5vh;
+    margin-bottom:1vh;
+}
